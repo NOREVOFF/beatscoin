@@ -1,0 +1,7 @@
+# Dossiers lourds à ignorer
+node_modules/
+.next/
+
+# Binaires
+*.exe
+*.dll
